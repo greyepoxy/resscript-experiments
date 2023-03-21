@@ -1,4 +1,4 @@
-@module("./style.css?inline") external style: unit = "default"
+@module("../../../src/style.css?inline") external style: unit = "default"
 
 type document
 
