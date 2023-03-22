@@ -14,6 +14,10 @@
     "in-source": false
   },
   "suffix": ".bs.js",
-  "bs-dependencies" : ["rescript-tea"],
+  "bs-dependencies" : [
+    "rescript-tea",
+    "bs-css",
+    "bs-css-emotion"
+  ],
   "bs-dev-dependencies": ["rescript-vitest"]
 }
